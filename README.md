@@ -29,7 +29,7 @@ This project was built for **hackathons and AI health innovation**, demonstratin
 * Currently uses **rule-based scoring** for demo purposes
 * Easily replaceable with **trained models**
 
-### 📱 Mobile-first UI
+###  Mobile-first UI
 
 * Modern responsive design
 * Smooth animations using Framer Motion
